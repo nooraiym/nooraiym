@@ -30,7 +30,7 @@ I'm a passionate frontend developer who loves to create beautiful and performant
 ---
 
 ### 📫 How to reach me:
-- **GitHub**: [@nooraiym](https://github.com/nooraiym)
+- **Telegram**: [@nooraiym_n](https://t.me/nooraiym_n)
 - **LinkedIn**: [Nuraiym's LinkedIn](www.linkedin.com/in/nurayim-nurbulatova)
 - **Email**: `nura.erkinbek.k@gmail.com`
 
