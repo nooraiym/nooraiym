@@ -1,8 +1,3 @@
-# Hi there, I'm Nuraiym Nurbulatova 👋
-
-## About Me
-I'm a passionate frontend developer who loves to create beautiful and performant user interfaces. With a keen eye for design and a strong understanding of modern web technologies, I strive to bridge the gap between graphical design and technical implementation.
----
 ### 🛠 Tech Stack
 - **Languages**: JavaScript (ES6+), TypeScript
 - **Frontend**: HTML5, CSS3, React.js, React-router-dom, Redux, Redux Toolkit, Redux Thunk, Formik, Axios
